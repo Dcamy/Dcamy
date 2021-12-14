@@ -2,8 +2,8 @@
 
 - 👀 I’m interested in a lot different shit but mostly crypto and the lack of plug and play tools for crypto companies
 
-- 🌱 I’m currently learning React JS, Solidity, everything... never did any coding at all untile a few weeks ago when I downloaded a React template that looks nice but is
-missing a lot of what I want, and much of what is there are deadend links. i.e. News letter Signup puts the data where? No lol. 
+- 🌱 I’m currently learning React JS, Solidity, everything... never did any coding at all until a few weeks ago when I downloaded a React template that looks nice but is
+missing a lot of what I want, and much of what is there are deadend links. i.e. News letter Signup puts the data where? No where lol, Signup does what? Nothing.  
 
 - 💞️ I’m looking to collaborate on Discord Bot builds, TG bot builds, Website builds, IPFS, everything I claim to be able to do here... I'm going to get sorted 
 http://dcamy.com.s3-website.us-east-2.amazonaws.com/ check the pricing page for the desired features and /help ---> Dcamy plan’s features for feature discriptions
