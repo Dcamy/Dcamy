@@ -16,9 +16,6 @@ Dcamy.dao <--Unstoppable Domain#9001
 TG
 @Dcamy_dot_Dao - +6218319638735
 
-Email
-danny@dcamy.com
-
 <!---
 Dcamy/Dcamy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
