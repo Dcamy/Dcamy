@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Danny Bordwell, born and raised in Alaska, married and living in Thailand with a baby on the way.
+- 👋 Hi, I’m Danny, born and raised in Alaska, married and living in Thailand with a baby on the way.
 
 - 👀 I’m interested in a lot different topics and currently working on a YouTube channel about GitHub projects called UnderDawgs. The ultimate goal of the channel is to attract consulting clients and grow my name in the devment space. 
 
